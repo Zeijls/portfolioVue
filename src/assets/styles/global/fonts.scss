@@ -1,0 +1,38 @@
+// LUST SANS
+@mixin font-lust-sans() {
+    font-family: 'lust-sans', arial, sans-serif;
+}
+
+// PROXIMA NOVA
+@mixin font-proxima-nova() {
+    font-family: 'proxima-nova', arial, sans-serif;
+}
+
+// CONDENSED
+@mixin font-proxima-nova-condensed() {
+    font-family: 'proxima-nova-extra-condensed', arial, sans-serif;
+  }
+
+// EXTRA CONDENSED
+@mixin font-proxima-nova-condensed() {
+    font-family: 'proxima-nova-extra-condensed', arial, sans-serif;
+  }
+
+// FONT WEIGHTS
+  @mixin font-weight-light() {
+    font-weight: 100;
+  }
+  @mixin font-weight-regular() {
+    font-weight: 400;
+  }
+  @mixin font-weight-medium() {
+    font-weight: 500;
+  }
+  @mixin font-weight-semibold() {
+    font-weight: 700;
+  }
+  @mixin font-weight-bold() {
+    font-weight: 900;
+  }
+  
+
